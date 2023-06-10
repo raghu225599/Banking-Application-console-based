@@ -3,9 +3,6 @@ package java4;
 import java.util.Scanner;
 
 public class BankAccount {
-/*4. Create a Java program that simulates a bank account. The program should allow
-users to deposit and withdraw money, check their balance.
-     */
     private static double balance;
 
     public static void main(String[] args){
